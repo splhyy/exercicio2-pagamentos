@@ -1,0 +1,14 @@
+C:\Projetos-CSharp\Exercicio2-Pagamentos\PagamentosSystem\obj\Debug\net9.0\PagamentosSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos-CSharp\Exercicio2-Pagamentos\PagamentosSystem\obj\Debug\net9.0\PagamentosSystem.AssemblyInfoInputs.cache
+C:\Projetos-CSharp\Exercicio2-Pagamentos\PagamentosSystem\obj\Debug\net9.0\PagamentosSystem.AssemblyInfo.cs
+C:\Projetos-CSharp\Exercicio2-Pagamentos\PagamentosSystem\obj\Debug\net9.0\PagamentosSystem.csproj.CoreCompileInputs.cache
+C:\Projetos-CSharp\Exercicio2-Pagamentos\PagamentosSystem\bin\Debug\net9.0\PagamentosSystem.exe
+C:\Projetos-CSharp\Exercicio2-Pagamentos\PagamentosSystem\bin\Debug\net9.0\PagamentosSystem.deps.json
+C:\Projetos-CSharp\Exercicio2-Pagamentos\PagamentosSystem\bin\Debug\net9.0\PagamentosSystem.runtimeconfig.json
+C:\Projetos-CSharp\Exercicio2-Pagamentos\PagamentosSystem\bin\Debug\net9.0\PagamentosSystem.dll
+C:\Projetos-CSharp\Exercicio2-Pagamentos\PagamentosSystem\bin\Debug\net9.0\PagamentosSystem.pdb
+C:\Projetos-CSharp\Exercicio2-Pagamentos\PagamentosSystem\obj\Debug\net9.0\PagamentosSystem.dll
+C:\Projetos-CSharp\Exercicio2-Pagamentos\PagamentosSystem\obj\Debug\net9.0\refint\PagamentosSystem.dll
+C:\Projetos-CSharp\Exercicio2-Pagamentos\PagamentosSystem\obj\Debug\net9.0\PagamentosSystem.pdb
+C:\Projetos-CSharp\Exercicio2-Pagamentos\PagamentosSystem\obj\Debug\net9.0\PagamentosSystem.genruntimeconfig.cache
+C:\Projetos-CSharp\Exercicio2-Pagamentos\PagamentosSystem\obj\Debug\net9.0\ref\PagamentosSystem.dll
